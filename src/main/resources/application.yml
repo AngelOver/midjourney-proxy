@@ -3,3 +3,12 @@ mj:
     type: in_memory
     timeout: 30d
   translate-way: null
+  accounts: ##https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+    - guild-id: 1142435339147935754
+      channel-id: 1168094619741978634
+      user-token: MTEyNjkxMjQ2OTIzMTczMDg4MA.G72y-7.qAc9wGm21hV-9ftrsdfMBOluEyVbXnDrhUBbDM
+      user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) midjourney/1.0.4 Chrome/106.0.5249.199 Electron/21.4.4 Safari/537.36
+    - guild-id: 1662267976984297473
+      channel-id: 990816829993811978
+      user-token: MTE4Mzk1NzA3NjkyMjMzOTM3Mw.GjRFoq.sTWZjzU6JK7lI3NYqfFnOrMLz-hwOry_mWZUMY
+      user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) midjourney/1.0.4 Chrome/106.0.5249.199 Electron/21.4.4 Safari/537.36
