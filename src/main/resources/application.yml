@@ -3,12 +3,16 @@ mj:
     type: in_memory
     timeout: 30d
   translate-way: null
-  accounts: ##https://www.oracle.com/java/technologies/downloads/#jdk17-windows
-    - guild-id: 1142435339147935754
-      channel-id: 1168094619741978634
-      user-token: MTEyNjkxMjQ2OTIzMTczMDg4MA.G72y-7.qAc9wGm21hV-9ftrsdfMBOluEyVbXnDrhUBbDM
+  accounts: ## https://www.oracle.com/java/technologies/downloads/#jdk17-windows
+    - guild-id: 1189516152959926303
+      channel-id: 1189517409669873689
+      user-token: OTYwNTE3NDMzODIxNjUxMDA0.GP7Pg0.f8fmICnDrnVqJR8QkMdTFcZdUtvVtntObSG60U
       user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) midjourney/1.0.4 Chrome/106.0.5249.199 Electron/21.4.4 Safari/537.36
-    - guild-id: 1662267976984297473
-      channel-id: 990816829993811978
-      user-token: MTE4Mzk1NzA3NjkyMjMzOTM3Mw.GjRFoq.sTWZjzU6JK7lI3NYqfFnOrMLz-hwOry_mWZUMY
+    - guild-id: 1189475331493609522
+      channel-id: 1189475331493609525
+      user-token: MTE4OTQ0NjQ4MzMzNDkzMDQzOA.GZzAoV.q7L_XsY1smRRpu4vN1GE2K_SwV8_cn0ANSmn_M
+      user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) midjourney/1.0.4 Chrome/106.0.5249.199 Electron/21.4.4 Safari/537.36
+    - guild-id: 1189521753802805268
+      channel-id: 1189522175259058235
+      user-token: MTE3MjA1Mjg5MzQ3MDMxNDUwNg.G4htuT.4bmjds0C8c1j-b_IP-dPBJ4lxCBE6Jop_iPDLo
       user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) midjourney/1.0.4 Chrome/106.0.5249.199 Electron/21.4.4 Safari/537.36
